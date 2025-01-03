@@ -4,3 +4,12 @@
 
 -   ConnectionString écrit en clair dans le code => password en clair
 
+-   Password mis en clair dans la DB
+
+-   Password envoyé dans les GET pour une raison assez douteuse ...
+
+Autre faille possible: 
+
+    - .env douteux
+    
+    - vérifier les rôles uniquement avec le JWT token et non pas avec la DB 

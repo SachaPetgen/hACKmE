@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hACKmEE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f38a536063d576c0d8fe2cfd874f78795418039")]
 [assembly: System.Reflection.AssemblyProductAttribute("hACKmEE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hACKmEE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

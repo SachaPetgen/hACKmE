@@ -1,0 +1,6 @@
+﻿
+
+-   SQL query avec variable directement dans la query => injection sql
+
+-   ConnectionString écrit en clair dans le code => password en clair
+
